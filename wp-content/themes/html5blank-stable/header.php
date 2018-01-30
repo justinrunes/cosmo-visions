@@ -21,6 +21,7 @@
             tests: {}
         });
         </script>
+		<meta name="google-site-verification" content="Ig4uV7VyUoHyiTEmbirupX_Fq7xNnx7ydQbCIWUWalw" />
 
 	</head>
 	<body data-spy="scroll" data-target="#navbar" data-offset="30" <?php body_class(); ?>>
