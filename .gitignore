@@ -27,3 +27,7 @@ Thumbs.db
 /assets
 assets
 assets/
+
+/wp-config.php
+wp-config.php
+wp-config.php/
