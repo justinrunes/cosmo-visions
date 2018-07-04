@@ -29,7 +29,7 @@ define('DB_USER', 'jrunes');
 define('DB_PASSWORD', 'Solvenow1!');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '159.89.156.66');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
